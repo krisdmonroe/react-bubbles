@@ -32,7 +32,6 @@ const ColorList = ({ colors, updateColors }) => {
     })
   }
   const addColor = e => {
-   
     axiosWithAuth().post('/api/colors', colorToEdit)
     .then(res=> console.log(res))
   }

@@ -36,8 +36,9 @@ A priveate route with a random token given to the use based on login and pass.
 Web servers have physical location where the data is physicaly stored and then sent to other
 severs via the internet.
 
-- [ ] Which HTTP methods can be mapped to the CRUD acronym that we use when interfacing with APIs/Servers.
-
+- [X] Which HTTP methods can be mapped to the CRUD acronym that we use when interfacing with APIs/Servers.
+Put maps to create and update.
+Post maps to create.
 
 ## Project Set Up
 
@@ -58,9 +59,9 @@ Follow these steps to set up and work on your project:
 
 Follow these steps for completing your project:
 
-- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo).
-- [ ] Add your Project Manager as a Reviewer on the Pull-request
-- [ ] PM then will count the HW as done by  merging the branch back into master.
+- [X] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo).
+- [X] Add your Project Manager as a Reviewer on the Pull-request
+- [X] PM then will count the HW as done by  merging the branch back into master.
 
 ## Minimum Viable Product
 
@@ -93,7 +94,7 @@ Build a login form to authenticate your users.
 
 **HTTP/Axios Stretch Problems**
 
-- [ ] Build a form at the bottom of `ColorList.js` to add new colors to the colors data
+- [X] Build a form at the bottom of `ColorList.js` to add new colors to the colors data
 
 **Data Visualization**
 
